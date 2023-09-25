@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "vite",
-    "build": "yarn build"
+    "dev": "vite"
   },
   "prettier": "@voiceflow/prettier-config",
   "dependencies": {
